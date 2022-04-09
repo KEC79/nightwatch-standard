@@ -16,7 +16,7 @@
     "selenium-server": "^3.141.59"
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nightwatch-html-reporter": "^2.0.6"
   }
 }
